@@ -96,6 +96,10 @@ The sixth option is about Game Based Learning which will help the user to know a
 ## Screenshots and Demos 📸
 
 
+
+The link for the ppt:
+SIH ppt.pptx
+
 ## Acknowledgments 🙌
 
 We would like to express our gratitude to the following individuals and organizations for their invaluable support and contributions to the development of Disaster Management System:
